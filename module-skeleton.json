@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-inventory-ledger-nuxt",
+  "capabilityKey": "planned:ecommerce:inventory-ledger",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-inventory-ledger-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/inventory-ledger.md",
+  "presentationPlan": "projects/ecommerce/nuxt/inventory-ledger.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
